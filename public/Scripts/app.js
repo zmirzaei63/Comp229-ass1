@@ -1,7 +1,6 @@
 // fileName: app.css
-// Student Name:Sina Pazhwak
-// Student ID:301033560
-// Date:2021-10-03
+// Student Name:Zahra Mirzaei
+// Student ID:301326136
 
 // Immediately Invoked Function Expression
 (function () {
