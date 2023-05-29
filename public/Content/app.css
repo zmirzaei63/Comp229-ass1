@@ -1,8 +1,7 @@
 /* 
 fileName: app.css
-Student Name:Sina Pazhwak
-Student ID:301033560
-Date:2021-10-03
+Student Name:Zahra Mirzaei
+Student ID:301326136
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
@@ -11,7 +10,7 @@ body,
 html {
   font-family: "Poppins", sans-serif;
   /* background-color: #7bc274; */
-  background-color: #3ee577;
+  background-color: #2f3f4f;
   background-image: linear-gradient(315deg, #3ee577 0%, #42fcdb 74%);
   color: rgb(14, 24, 13);
   box-sizing: border-box;
